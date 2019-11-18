@@ -5,12 +5,12 @@ This is a [toCoordinates plugin](https://github.com/ffly4u-open-source/leaflet-t
 
 with npm:
 ```bash
-npm install --save @ffly4u/leaflet-toCoordinates @ffly4u/vue2-leaflet-toCoordinates
+npm install --save @ffly4u/leaflet-tocoordinates @ffly4u/vue2-leaflet-tocoordinates
 ```
 
 or yarn:
 ```bash
-yarn add @ffly4u/leaflet-toCoordinates @ffly4u/vue2-leaflet-toCoordinates
+yarn add @ffly4u/leaflet-tocoordinates @ffly4u/vue2-leaflet-tocoordinates
 ```
 
 ## Usage

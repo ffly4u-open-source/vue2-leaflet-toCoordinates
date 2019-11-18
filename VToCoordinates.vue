@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import LeafletToCoordinates from 'leaflet-tocoordinates';
+import LeafletToCoordinates from '@ffly4u/leaflet-tocoordinates';
 
 const props = {
   options: {
