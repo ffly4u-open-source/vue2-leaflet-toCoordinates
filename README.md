@@ -28,7 +28,8 @@ Look [toCoordinates plugin Options](https://github.com/ffly4u-open-source/leafle
 <script>
 import Vue from 'vue';
 import Vue2Leaflet from 'vue2-leaflet';
-import VToCoordinates from 'vue2-leaflet-toCoordinates';
+import VToCoordinates from '@ffly4u/vue2-leaflet-toCoordinates';
+import '@ffly4u/leaflet-tocoordinates/dist/leaflet.css';
 
 Vue.component('v-map', Vue2Leaflet.Map);
 Vue.component('v-tilelayer', Vue2Leaflet.TileLayer);

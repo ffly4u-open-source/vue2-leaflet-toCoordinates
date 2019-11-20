@@ -1,6 +1,6 @@
 {
   "name": "@ffly4u/vue2-leaflet-tocoordinates",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "toCoordinates plugins extensions for vue2-leaflet package",
   "main": "VToCoordinates.vue",
   "repository": {
